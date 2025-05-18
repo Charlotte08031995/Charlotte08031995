@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Charlotte08031995
-- 👀 I’m interested in different technologies oriented to the Web Developer and Frontend.
-- 🌱 I’m currently learning MongoDB and Nodejs
-- 💞️ I’m looking to collaborate on open source projects.
+- 👋 Hey! I’m @Charlotte08031995
+- 👩‍💻 Passionate about web development, continuous learning, and digital creativity.
+- 🔍 A focused learner on *software testing* and improving the quality and usability of web applications.
+- 🌱 Currently learning new tools and best practices in frontend technologies and testing.
 
 <!---
-Charlotte08031995/Charlotte08031995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Let's connect: https://www.linkedin.com/in/charlotte-salazar-338104218/
 --->
